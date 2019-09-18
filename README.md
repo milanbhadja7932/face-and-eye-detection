@@ -11,4 +11,4 @@ Firstly the image is imported by providing the location of the image. Then the p
 The next step is to give the coordinates of x, y, w, h which makes a rectangle box in the picture to show the location of the face or we can say that to show the region of interest in the image. After this, it can make a rectangle box in the area of interest where it detects the face. There are also many other detection techniques that are used together for detection such as smile detection, eye detection, blink detection, etc.<br/>
 
 
-![alt text](http://url/to/img.png)
+![face and eye](https://github.com/milanbhadja7932/face-and-eye-detection/blob/master/output1.jpg)
