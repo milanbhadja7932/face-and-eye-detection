@@ -7,6 +7,8 @@ There are many techniques to detect faces, with the help of these techniques, we
 
 Firstly the image is imported by providing the location of the image. Then the picture is transformed from RGB to Grayscale because it is easy to detect faces in the grayscale.<br/>
 
+![face and eye](https://github.com/milanbhadja7932/face-and-eye-detection/blob/master/1_tI273XoAhk39jAdc3YMf1w.png)
+
 
 The next step is to give the coordinates of x, y, w, h which makes a rectangle box in the picture to show the location of the face or we can say that to show the region of interest in the image. After this, it can make a rectangle box in the area of interest where it detects the face. There are also many other detection techniques that are used together for detection such as smile detection, eye detection, blink detection, etc.<br/>
 
